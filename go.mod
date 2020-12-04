@@ -1,3 +1,4 @@
-module github.com/cjatcq/interview
+module github.com/cjatcq/interviews
+
 
 go 1.14
