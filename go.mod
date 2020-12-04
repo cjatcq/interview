@@ -1,3 +1,3 @@
-module github.com/cjatcq/test
+module github.com/cjatcq/interview
 
 go 1.14
